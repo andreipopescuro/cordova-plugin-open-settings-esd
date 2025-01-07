@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/.git"
+    "url": "https://github.com/andreipopescuro/cordova-plugin-open-settings-esd.git"
   },
   "bugs": {
-    "url": "https://github.com//issues"
+    "url": "https://github.com/andreipopescuro/cordova-plugin-open-settings-esd/issues"
   },
-  "homepage": "https://github.com/#readme",
+  "homepage": "https://github.com/andreipopescuro/cordova-plugin-open-settings-esd#readme",
   "author": "Andrei Popescu",
   "license": "MIT"
 }
